@@ -1,0 +1,6 @@
+#IDE
+.mx2
+
+#Build byproducts
+*.build*
+*.products
